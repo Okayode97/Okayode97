@@ -1,7 +1,10 @@
 👋 Hi, I’m @Okayode97
 
 - I'm interested in deep learning, computer vision and robotics.
-- I’m currently learning how to apply deep learning to solve canonical computer vision problems
+- I’m currently
+  - preparing to take the tensorflow developer exam
+  - Working on a face recognition app in background
+  - Reading up solving computer vision task with deep learning (Reading Hands on computer vision with Tensorflow 2.0)  
 
 
 <!---
