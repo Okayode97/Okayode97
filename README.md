@@ -1,10 +1,12 @@
 👋 Hi, I’m @Okayode97
 
-- I'm interested in deep learning, computer vision and robotics.
-- I’m currently
-  - preparing to take the tensorflow developer exam
-  - Working on a face recognition app in background
-  - Reading up solving computer vision task with deep learning (Reading Hands on computer vision with Tensorflow 2.0)  
+I'm a computer vision software engineer at Roke Manor Research.
+I have experience developing software primarily in Python & Rust.
+
+My areas of interest are
+- MLOps & deep learning
+- Computer Vision
+- Software development
 
 
 <!---
