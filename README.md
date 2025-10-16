@@ -1,7 +1,6 @@
 👋 Hi, I’m @Okayode97
 
-I'm a computer vision software engineer at Roke Manor Research.
-I have experience developing software primarily in Python & Rust.
+I'm an AI Engineer at Reach Industries
 
 My areas of interest are
 - MLOps & deep learning
